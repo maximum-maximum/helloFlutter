@@ -21,6 +21,7 @@ class SecondPage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              Image.asset('images/inu.jpeg'),
               Text(
                 name,
                 style: const TextStyle(fontSize: 50),
